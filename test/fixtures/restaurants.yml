@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_ifudi: MyString
+  action: MyString
+  available: false
+  user_rating: 9.99
+
+two:
+  id_ifudi: MyString
+  action: MyString
+  available: false
+  user_rating: 9.99
